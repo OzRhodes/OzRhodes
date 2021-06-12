@@ -3,7 +3,7 @@
 <!--
 **OzRhodes/OzRhodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-![alt text](https://github.com/[ozrhodes]/[ozrhodes]/blob/[master]/python.jpg?raw=true)
+![alt text](https://github.com/[ozrhodes]/[ozrhodes]/blob/[main]/python.jpg?raw=true)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozrhodes)](https://github.com/ozrhodes/github-readme-stats)
 
@@ -18,7 +18,7 @@
 
 - 🤔 I’m looking for help with ... Finding freelance opportunities or short term remote work opportunities
 
-- 📫 How to reach me: ... email at oz@ozrhodes.com or through linked in
+- 📫 How to reach me: ... email at oz@ozrhodes.com or through LinkedIn
 
 
 
