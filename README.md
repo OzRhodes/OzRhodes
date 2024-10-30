@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on ... Building a portfolio of projects to support my freelance work
 
-- 🌱 I’m currently learning ... Python, data analysis and web scraping
+- 🌱 I’m currently learning ... Python, security and pentesting.
 
 - 👯 I’m looking to collaborate on ... Any Project that needs my talents...I'm semi retired and looking for challenges
 
